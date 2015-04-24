@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'iron:router',
+  name: 'fold:iron-router',
   summary: 'Routing specifically designed for Meteor',
-  version: "1.0.7.1",
+  version: "1.0.8",
   git: "https://github.com/readFold/iron-router"
 });
 
@@ -65,7 +65,7 @@ Package.on_use(function (api) {
 });
 
 Package.on_test(function (api) {
-  api.use('iron:router');
+  api.use('fold:iron-router');
   api.use('tinytest');
   api.use('test-helpers');
 
