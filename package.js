@@ -1,7 +1,7 @@
 Package.describe({
   name: 'fold:iron-router',
-  summary: 'Routing specifically designed for Meteor',
-  version: "1.0.8",
+  summary: 'Routing specifically designed for Meteor. Customized for FOLD.',
+  version: "1.0.10",
   git: "https://github.com/readFold/iron-router"
 });
 
